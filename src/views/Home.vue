@@ -15,6 +15,8 @@
   </div>
 </template>
 
+// bootstrap, jquery, and jspopper are already installed. Look into bootstrap graphs and shit.
+
 <script>
 import axios from "axios";
 
